@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+.ink-shape {
+  width: 311, 05px;
+  height: 239px;
+  display: block;
+  margin: 110px auto 50px auto;
+  text-align: center;
+}
+
+.dots {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+img {
+  margin: 0 8px;
+}
+
+p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+  display: block;
+  margin: 81px 43px;
+}
+
+button {
+  width: 173px;
+  height: 46px;
+  display: block;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  margin: 0 auto 100px auto;
+  color: #ffffff;
+  background: #323232;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
